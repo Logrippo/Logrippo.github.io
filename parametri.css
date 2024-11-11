@@ -1,0 +1,22 @@
+  
+    
+         body {
+         background-image: url(sfondo.jpg);
+         background-size: cover; /* Si adatta alla pagina coprendola completamente */
+         color: white;  
+         }
+         .container {
+         background-color: rgba(0, 0, 0, 0.5);
+         padding: 20px;
+         margin: 13px auto;
+         width: 80%;
+         color: white;
+         }
+         .barra {
+         color: #FFD700;
+         text-align: center; 
+         padding: 15px;
+         }
+         .navbar a {
+         margin: 5px;
+         }
